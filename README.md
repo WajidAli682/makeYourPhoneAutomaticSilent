@@ -1,0 +1,1 @@
+this is app help to make your device automatically silent when needed you just have to give an specific times like we set an alarm then this app make you deivce silet on given time and also make it unmute on a given time
